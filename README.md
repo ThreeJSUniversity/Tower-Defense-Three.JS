@@ -3,6 +3,8 @@ Three.JS Tower Defense gamedev tutorial
 
 Read all the tutorials online !
 
+![alt text](https://threejs-university.com/wp-content/uploads/2021/08/Capture-decran-de-2021-08-01-16-07-59-e1628686089467-1024x528.png)
+
 ## Chapter 1 - Tower Defense Gamedev - Basics
 French Version : [Three.JS University - Chapter 1 Link](https://threejs-university.com/2021/08/09/creer-un-jeu-de-tower-defense-avec-three-js-partie-1/)
 English Version : TODO
